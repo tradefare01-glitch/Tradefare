@@ -1,11 +1,11 @@
-# Tradefare - KampusVillage 🎓
+# Tradefare - CampusTrading 🎓
 
-A comprehensive marketplace and wallet platform designed for campus communities. Tradefare enables students to buy, sell, and trade goods and services while maintaining secure digital wallets for seamless transactions.
+A comprehensive marketplace and wallet platform designed for campus communities. CampusTrading enables students to buy, sell, and trade goods and services while maintaining secure digital wallets for seamless transactions.
 
 ## 🎯 Features
 
 - **Campus Marketplace** - Discover, buy, and sell items within your campus community
-- **KampusWallet** - Secure digital wallet for managing transactions and balances
+- **Campus Wallet** - Secure digital wallet for managing transactions and balances
 - **Community Ecosystem** - Connect with other students and build your campus network
 - **Real-time Updates** - Stay informed with notifications and live market ticker
 - **Responsive Design** - Optimized for mobile, tablet, and desktop experiences
@@ -61,6 +61,7 @@ src/
 │   └── home/            # Home page sections
 ├── hooks/               # Custom React hooks
 ├── lib/                 # Utility functions and helpers
+├── types/               # TypeScript type definitions
 ├── App.tsx              # Root component
 ├── App.css              # App-specific styles
 ├── index.css            # Global styles
