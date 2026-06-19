@@ -32,10 +32,10 @@ export default function Navbar() {
           {/* Logo */}
           <Link to="/" className="flex items-center gap-2 shrink-0">
             <div className="w-8 h-8 bg-text-primary rounded-lg flex items-center justify-center">
-              <span className="text-white font-display text-sm">K</span>
+              <span className="text-white font-display text-sm">CT</span>
             </div>
             <span className="font-display text-lg lg:text-xl text-text-primary">
-              KampusVillage
+              CampusTrading
             </span>
           </Link>
 
@@ -59,7 +59,7 @@ export default function Navbar() {
                   : 'text-text-primary'
               }`}
             >
-              KampusWallet
+              Wallet
             </Link>
             <Link
               to="/about"
@@ -113,7 +113,7 @@ export default function Navbar() {
               to="/kampuswallet"
               className="block px-4 py-3 text-text-primary font-medium hover:bg-blue-bg rounded-lg transition-colors"
             >
-              KampusWallet
+              Wallet
             </Link>
             <Link
               to="/about"
